@@ -1,6 +1,33 @@
-#deder{
+*{
+	margin: 0;
+	padding: 0;
+}
+
+a{
+	text-decoration: none;
+}
+
+.heder{
+	max-width: 1920px;
+	height: 388px;
 	background-color: #0020F4;
 }
-ul,li{
-	color: darkred;
+
+.skimage{
+	width: 115px;
+	height: 65px;
+	margin-left: 240px;
+	margin-top: 40px;
+}
+
+ul{
+	list-style-type: none;
+	margin-left: 488px;
+	margin-bottom: 270px;
+}
+nav li{
+	display: inline-block;
+}
+nav a{
+	color: #FFFFFF;
 }
