@@ -16,34 +16,64 @@ a{
 .skimage{
 	width: 115px;
 	height: 65px;
-	margin-left: 240px;
+	margin-left: 270px;
 }
 
 ul{
 	list-style-type: none;
-	margin-left: 1100px;
-	margin-bottom: 350px;
+	margin-left:843px;
 }
 nav li{
 	display: inline-block;
+	margin-left: 43px;
 }
 nav a{
 	color: #FFFFFF;
 }
+
 .contact{
+	color: #171717;
 	border:1px solid white;
 	padding-top: 10px;
 	padding-right: 10px;
 	padding-bottom: 10px;
 	padding-left: 10px;
+	border-radius: 15px;
 }
-.pirvseqc{
-	max-width: 1200px;
+.igive{
+	max-width: 1150px;
+}
+.surati{
+	width: 100%;
 	margin:auto;
 	margin-top: -150px;
 	margin-left: 340px;
 }
 
-p{
-	font-size: 16px;
+.satauri{
+	margin-left:340px;
+	margin-top: 30px;
+	margin-bottom: 30px;
+}
+.minisuratebi{
+	margin-top:60px;
+	margin-bottom: 60px;
+	margin-left: 362px;
+}
+
+.pirveli{
+	width: 951px;
+	height: 177;
+	margin-top: 60px;
+	margin-left:484px;
+	margin-right: 484px;
+	margin-bottom: 18px;
+}
+#info{
+	color: #black;
+	border: 1px solid blue;
+	border-color: #0A22F4;
+	margin-top: 76px;
+	margin-left: 847px;
+	margin-right: 800px;
 }
