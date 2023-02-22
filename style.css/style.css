@@ -63,10 +63,10 @@ nav a{
 }
 
 .pirveli{
-	margin-top: 60px;
-	margin-left:484px;
-	margin-right: 484px;
-	margin-bottom: 18px;
+	display: flex;
+	align-items: center;
+	justify-content: center;
+	align-content: center;
 }
 #info{
 	display: inline-block;
