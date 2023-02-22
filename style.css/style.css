@@ -8,26 +8,42 @@ a{
 }
 
 .heder{
-	max-width: 1920px;
 	height: 388px;
 	background-color: #0020F4;
+	padding-top: 40px;
 }
 
 .skimage{
 	width: 115px;
 	height: 65px;
 	margin-left: 240px;
-	margin-top: 40px;
 }
 
 ul{
 	list-style-type: none;
-	margin-left: 488px;
-	margin-bottom: 270px;
+	margin-left: 1100px;
+	margin-bottom: 350px;
 }
 nav li{
 	display: inline-block;
 }
 nav a{
 	color: #FFFFFF;
+}
+.contact{
+	border:1px solid white;
+	padding-top: 10px;
+	padding-right: 10px;
+	padding-bottom: 10px;
+	padding-left: 10px;
+}
+.pirvseqc{
+	max-width: 1200px;
+	margin:auto;
+	margin-top: -150px;
+	margin-left: 340px;
+}
+
+p{
+	font-size: 16px;
 }
