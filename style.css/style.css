@@ -6,6 +6,10 @@
 a{
 	text-decoration: none;
 }
+html, body{
+	max-width: 100%;
+	overflow-x: hidden;
+}
 
 header{
 	height: 300px;
@@ -21,6 +25,7 @@ header{
 
 ul{
 	list-style-type: none;
+	margin-top: -50px;
 	margin-left:843px;
 }
 nav li{
@@ -30,6 +35,7 @@ nav li{
 nav a{
 	color: #FFFFFF;
 }
+
 
 .contact{
 	background-color: #FFFFFF;
@@ -63,6 +69,7 @@ nav a{
 }
 
 .pirveli{
+	text-align: center;
 	display: flex;
 	align-items: center;
 	justify-content: center;
